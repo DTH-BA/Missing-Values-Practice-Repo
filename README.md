@@ -12,4 +12,4 @@ This folder contains 8 simulated datasets, each illustrating a common missing-da
 - Missingness audit: counts, % by column, patterns (heatmap/matrix), MCAR tests (Little’s test if applicable)
 - Strategy options: drop vs simple vs group-wise vs model-based (KNN, MICE, regression, interpolation, ffill/bfill, domain rules)
 - Quality checks: distribution shift, correlation preservation, leakage risks
-- Documentation: decisions, pros/cons, when to revisit; add a `*_missing_flag` when appropriate
+- Documentation: decisions, pros/cons, when to revisit; add a `_missing_flag` when appropriate

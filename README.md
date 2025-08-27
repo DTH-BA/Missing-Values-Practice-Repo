@@ -1,6 +1,6 @@
 # Missing Values Practice Repo
 
-This folder contains 8 simulated datasets, each illustrating a common missing-data mechanism or scenario. Pair each CSV with a Jupyter notebook that:
+This folder contains simulated datasets, each illustrating a common missing-data mechanism or scenario. Pair each CSV with a Jupyter notebook that:
 1) Diagnoses the missingness (MCAR/MAR/MNAR/other)  
 2) Chooses and justifies an imputation/handling strategy  
 3) Evaluates impact on downstream analysis/modeling  
